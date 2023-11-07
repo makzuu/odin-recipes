@@ -1,0 +1,10 @@
+body {
+    background-color: #181818;
+    color: #ccc;
+    font-family: Monospace, sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
