@@ -8,3 +8,26 @@ h1,
 h2 {
     text-align: center;
 }
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    list-style-type: none;
+
+    display: inline-block;
+    padding: 8px;
+    margin: 8px;
+    border: 1px #ccc solid;
+    background-color: #ccc;
+}
+
+nav li:hover {
+    box-shadow: 0px 4px 2px teal;
+}
+
+nav a,
+nav a:visited {
+    color: #181818;
+}
